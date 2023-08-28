@@ -1,1 +1,3 @@
-# Marking-Web-Tool
+# Marking Web Tool Application
+
+This application is a self-driven project by me. This project is based on my capstone project from my final undergraduate year at university, where my group created a web tool for effiecent marking, for the client Ewan Tempero. The project had my group only focus on a efficient marking. In this project, this would be created by one person (me), instead of a group of six people and would extend on the capstone to include addition components like rubric creation, and also this project would be built from ground up rather than use the original project due to the tech stack and implementation being different.
